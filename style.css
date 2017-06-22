@@ -1,0 +1,104 @@
+ul {
+	list-style: none;
+	float: right;
+	margin: 20px 500px 20px 0;
+	
+}
+
+li {
+	display: inline-block;
+}
+
+nav {
+	background-color: #336600;
+	
+}
+
+a {
+	color: #ffffff;
+	padding: 70px;
+}
+
+.clearfix {
+	clear: both;
+}
+
+p {
+	border: 2px solid black;
+	width: 200px;
+	height: 150px;
+	padding: 25px;
+	border-radius: 5px;
+	margin: 200px 0 0 85px;
+}
+.circle {
+	background: #242424;
+	height: 80px;
+	width: 80px;
+	border-radius: 50%;
+	position: absolute;
+	left: 165px;
+	top: 194px;
+}
+
+.drugi {
+	border: 2px solid black;
+	width: 200px;
+	height: 150px;
+	padding: 25;
+	border-radius: 5px;
+	float: right;
+	margin: -205px 710px 0 0;
+	
+}
+
+.circle2{
+	background: #242424;
+	height: 80px;
+	width: 80px;
+	position: absolute;
+	left: 490px;
+	top: 194px;
+	border-radius: 50%;
+
+}
+.treci{
+	border: 2px solid black;
+	width: 200px;
+	height: 150px;
+	padding: 25;
+	border-radius: 5px;
+	float: right;
+	margin: -205px 400px 0 0;
+}
+.circle3 {
+	background: #242424;
+	height: 80px;
+	width: 80px;
+	position: absolute;
+	left: 790px;
+	top: 194px;
+	border-radius: 50%;
+}
+.cetvrti {
+	border: 2px solid black;
+	width: 200px;
+	height: 150px;
+	padding: 25;
+	border-radius: 5px;
+	float: right;
+	margin: -205px 90px 0 0;
+}
+.circle4 {
+	background: #242424;
+	height: 80px;
+	width: 80px;
+	position: absolute;
+	left: 1100px;
+	top: 194px;
+	border-radius: 50%;
+
+}
+body {
+	margin: 0;
+}
